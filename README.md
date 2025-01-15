@@ -1,4 +1,4 @@
 # demo
 first git repo
 <br>
-Author - rakz
+Author - rakz ( v rakz )
